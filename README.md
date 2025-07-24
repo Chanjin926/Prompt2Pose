@@ -1,5 +1,7 @@
 # ArrayCan
-Defining a task arraying can with SAPIEN simulator
+![array_s0+(1)](https://github.com/user-attachments/assets/1ed55366-9ac6-40e6-bee7-9a032c08141c)
+
+Defining a task of arraying can with SAPIEN simulator
 ## Environment Used
 * Ubuntu 22.04 / 20.04
 * SAPIEN 3.x
