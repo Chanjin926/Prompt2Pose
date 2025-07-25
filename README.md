@@ -43,7 +43,7 @@ conda env create -f sapien3.yml
 pip install mani_skill
 pip install mplib==0.2
 ```
-Move the files included to the instructed directories
+Move the files included to the instructed directories <br><br>
 @mani_skill/envs/tasks/tabletop/__init__.py
 ```
 +) from .array_can import ArrayCanEnv
