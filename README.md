@@ -35,6 +35,8 @@ mani_skill
          └── tabletop
             └── array_can.py
 ```
+<img width="1822" height="746" alt="image" src="https://github.com/user-attachments/assets/e3ba86d7-9e03-480c-8ee1-eda7fefb22fc" />
+
 ## Set up
 ```
 conda env create -f sapien3.yml
