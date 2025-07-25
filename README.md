@@ -101,3 +101,8 @@ You can test the installation with
 ```
 python -m mani_skill.examples.teleoperation.interactive_panda -e ArrayCan
 ```
+<br>
+You can run the motionplanning code with
+```
+python -m mani_skill.examples.motionplanning.panda.run -e ArrayCan-v1 --vis
+```
